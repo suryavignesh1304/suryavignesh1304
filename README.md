@@ -1,16 +1,18 @@
 <h1 align="center">👋 Hi, I’m Surya Vignesh.....You can call me Surya</h1>
 <h3  align="center">💻 Web developer | 📖 Tech enthusiast </h3> 
 <n>
-<img align="left" height="180" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
+<img align="left" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
 </n>
 <br>
 <ul>
+	<m>
   <li>💼 I'm currently a Engineering Student at <b>JNTUH UNIVERSITY COLLEGE OF ENGINEERING MANTHANI</b></a></li>
   <li>🌱 I have keen interests in Open source, web design , App devlopment , web development, and OpenCV.</li>
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
   <li>😸 I love learning/exploring upcoming and trending technologies and always look forward to implement some cool project ideas on the same.</li>
   <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
   <li>🎄 Connect with me on linkedin <a  href="" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
+	</m>
 </ul>
 <br>
 <h3>✨ I have worked with </h3>
