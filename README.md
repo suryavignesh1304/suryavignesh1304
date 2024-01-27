@@ -11,15 +11,15 @@
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
   <li>😸 I love learning/exploring upcoming and trending technologies and always look forward to implement some cool project ideas on the same.</li>
   <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
-  <li>🎄 Connect with me on linkedin <a  href="" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
+  <li>🎄 Connect with me on linkedin <a  href="https://www.linkedin.com/in/surya-vignesh-kapuganti-b02a84226/" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
 	</m>
 </ul>
 <br>
-<h3>✨ I have worked with </h3>
 <div>
-   <ul>
-    <li>Web -<br clear="both">
-<div align="left">
+	<h3>✨ I have worked with </h3>
+	<ul>
+	   <li><b>Web-</b><br clear="both">
+		   <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="20" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
@@ -64,5 +64,6 @@
 </li>
   </ul> </div>
 <br>
+</div>
 <h3>🎨 What am I learning currently?</h3>
-<p>At the moment I'm mastering my  <b> coding skills.</b> With my college studies, I'm learning and contributing as much as I can.🚀</p>
+<p>At the moment I'm mastering my  <b> coding skills.</b> 
