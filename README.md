@@ -1,18 +1,15 @@
 <h1 align="center">👋 Hi, I’m Surya Vignesh.....You can call me Surya</h1>
 <h3  align="center">💻 Web developer | 📖 Tech enthusiast </h3> 
-<n>
-<img align="left" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
-</n>
-<br>
+<p align="left">
+<img  width="50%" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
+</p>
 <ul>
-	<m>
   <li>💼 I'm currently a Engineering Student at <b>JNTUH UNIVERSITY COLLEGE OF ENGINEERING MANTHANI</b></a></li>
   <li>🌱 I have keen interests in Open source, web design , App devlopment , web development, and OpenCV.</li>
   <li>💞️ I’m looking forward to collaborate on any emerging technologies. </li>
   <li>😸 I love learning/exploring upcoming and trending technologies and always look forward to implement some cool project ideas on the same.</li>
   <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
-  <li>🎄 Connect with me on linkedin <a  href="https://www.linkedin.com/in/surya-vignesh-kapuganti-b02a84226/" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
-	</m>
+  <li>🎄 Connect with me on linkedin <a href="https://www.linkedin.com/in/surya-vignesh-kapuganti-b02a84226/" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
 </ul>
 <br>
 <div>
