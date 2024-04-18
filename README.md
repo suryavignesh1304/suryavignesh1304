@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Surya Vignesh.....You can call me Surya</h1>
-<h3  align="center">💻 Web developer | 📖 Tech enthusiast </h3> 
+<h3  align="center">💻 developer | 📖 Tech enthusiast </h3> 
 <p align="left">
 <img  width="50%" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
 </p>
