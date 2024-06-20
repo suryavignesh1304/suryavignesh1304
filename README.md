@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Surya Vignesh.....You can call me Surya</h1>
 <h3  align="center">💻 developer | 📖 Tech enthusiast </h3> 
 <p align="left">
-<img  width="30%" src="https://media1.tenor.com/m/Flf8Z_pGZwMAAAAC/menhera-kun-hi-anime-hi.gif"  />
+<img  width="25%" src="https://media.tenor.com/sG50GhPiOB4AAAAi/anime.gif">
 </p>
 <ul>
   <li>💼 I'm currently a Engineering Student at <b>JNTUH UNIVERSITY COLLEGE OF ENGINEERING MANTHANI</b></a></li>
