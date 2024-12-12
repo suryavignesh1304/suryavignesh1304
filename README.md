@@ -60,12 +60,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   </div>
   <br>
-  <li><b>Machine Learning and NLP:</b></li>
+  <li><b>Machine Learning :</b></li>
   <div align="left">
     <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-Learn" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="40" alt="Keras" />
-    <img src="https://img.shields.io/badge/Transformers-FFBF00?logo=transformers&logoColor=black&style=for-the-badge" height="40" alt="Transformers" />
     <img src="https://img.shields.io/badge/Numpy-0175C2?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="Numpy" />
     <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas" />
     <img src="https://img.shields.io/badge/Matplotlib-007ACC?logo=matplotlib&logoColor=white&style=for-the-badge" height="40" alt="Matplotlib" />
