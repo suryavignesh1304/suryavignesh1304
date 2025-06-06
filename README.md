@@ -57,8 +57,8 @@ REST APIs, Responsive Web Design, Data Scraping, Machine Learning, Model Deploym
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/surya-vignesh-kapuganti/)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/SuryaVigneshKapuganti)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://[www.linkedin.com/in/surya-vignesh-kapuganti/](https://www.linkedin.com/in/surya-vignesh-kapuganti-b02a84226/))
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/suryavignesh1304)
 [<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge">](https://suryavignesh.netlify.app/) <!-- Replace with your portfolio -->
 
 <br><br>
